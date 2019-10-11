@@ -1,6 +1,5 @@
 package example;
 
-import java.io.*;
 
 /**
  *
